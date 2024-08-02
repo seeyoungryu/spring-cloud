@@ -12,5 +12,3 @@ public class ProductApplication {
 
 }
 
-
-//remote test

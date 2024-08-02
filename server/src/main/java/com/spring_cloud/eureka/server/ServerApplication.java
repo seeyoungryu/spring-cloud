@@ -13,4 +13,3 @@ public class ServerApplication {
 }
 
 
-//remote test
