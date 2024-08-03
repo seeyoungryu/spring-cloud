@@ -1,4 +1,4 @@
-# 클라이언트 사이드 로드 밸런싱 (FeignClient와 Ribbon) 실습 레파지토리
+### 클라이언트 사이드 로드 밸런싱 (FeignClient와 Ribbon) 구현 레파지토리
 
 <img src="https://teamsparta.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F83c75a39-3aba-4ba4-a792-7aefe4b07895%2F6ea08ada-4daa-44a6-b5ab-fa052e80c455%2FUntitled.png?table=block&id=6607526f-2944-404b-9ece-86477d2b92a0&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&width=770&userId=&cache=v2" alt="Architecture Diagram" width="50%">
 
